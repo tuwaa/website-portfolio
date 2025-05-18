@@ -5,7 +5,7 @@ export default function Blog() {
   const blogPosts = [
     {
       title: 'Getting Started with my portfolio-website',
-      excerpt: 'In this blog post, I will share my experience and learnings about building my portfolio website.',
+      excerpt: 'In this blog post, I will share my experience and learnings about building my po rtfolio website.',
       date: 'May 17, 2025',
       readTime: '1 min read',
       tags: ['Developer', 'Portfolio', 'Web Development'],

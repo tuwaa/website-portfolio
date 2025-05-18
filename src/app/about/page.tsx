@@ -34,7 +34,7 @@ export default function About() {
           <div className="bg-[#111111] rounded-xl p-4 sm:p-6 md:p-8 transform transition-all duration-300 
                          hover:scale-[1.02] hover:bg-[#1a1a1a]">
             <p className="text-sm sm:text-base md:text-lg text-gray-300 mb-4 sm:mb-6">
-              I'm a passionate full-stack developer with a keen eye for design and a love for creating
+              I'm a passionate frontend developer with a keen eye for design and a love for creating
               seamless user experiences. With several years of experience in web development, I
               specialize in building modern, responsive, and scalable applications.
             </p>
