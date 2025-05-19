@@ -29,7 +29,7 @@ export default function Contact() {
       icon: FiMail,
       title: 'Email',
       content: 'contact@example.com',
-      href: 'mailto:contact@example.com',
+      href: 'tuwa2421@gmail.com',
     },
     {
       icon: FiPhone,
