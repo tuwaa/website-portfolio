@@ -44,8 +44,8 @@ export default function Home() {
           <a href="mailto:tuwa2421@gmail.com" className="social-link">
             <FiMail /> Email
           </a>
-          <a href="/resume.pdf" className="social-link">
-            <FiFileText /> Resume
+          <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer" className="social-link">
+            <FiFileText /> View Resume
           </a>
         </div>
 
