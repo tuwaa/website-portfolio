@@ -11,6 +11,7 @@ export default function Navbar() {
         <div className="flex items-center space-x-2">
           <Link href="/blog" className="nav-item">Blog</Link>
           <Link href="/projects" className="nav-item">Projects</Link>
+          <Link href="/certificates" className="nav-item">Certificates</Link>
           <Link href="/about" className="nav-item">About</Link>
           <a
             href="https://github.com/tuwaa"

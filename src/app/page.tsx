@@ -1,7 +1,7 @@
 'use client';
 import Image from 'next/image';
 import Link from 'next/link';
-import { FiGithub, FiLinkedin, FiMail } from 'react-icons/fi';
+import { FiGithub, FiLinkedin, FiMail, FiFileText } from 'react-icons/fi';
 
 export default function Home() {
   return (
@@ -43,6 +43,9 @@ export default function Home() {
           </a>
           <a href="mailto:tuwa2421@gmail.com" className="social-link">
             <FiMail /> Email
+          </a>
+          <a href="/resume.pdf" className="social-link">
+            <FiFileText /> Resume
           </a>
         </div>
 
