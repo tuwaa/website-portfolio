@@ -20,7 +20,7 @@ export default function Navbar() {
             className="flex items-center space-x-1 nav-item"
           >
             <FiGithub className="w-5 h-5" />
-            <span>10</span>
+            <span>21</span>
           </a>
         </div>
       </div>
