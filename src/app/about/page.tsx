@@ -41,15 +41,15 @@ export default function About() {
                        hover:scale-[1.02] hover:bg-[#1a1a1a]"
           >
             <p className="text-sm sm:text-base md:text-lg text-gray-300 mb-4 sm:mb-6">
-            I’m a frontend developer with experience in different areas of tech, from teaching 
-            and data analytics to product management, QA, and digital marketing. These roles have helped me develop both my technical and communication skills, as well as a better understanding of how users interact with products. I enjoy building websites that are clean, responsive, and easy to use, 
-            and I’m always looking for ways to learn, improve, and create better digital experiences.
+              I’m a frontend developer with experience in different areas of tech, from teaching 
+              and data analytics to product management, QA, and digital marketing. These roles have helped me develop both my technical and communication skills, as well as a better understanding of how users interact with products. I enjoy building websites that are clean, responsive, and easy to use, 
+              and I’m always looking for ways to learn, improve, and create better digital experiences.
             </p>
 
             <p className="text-sm sm:text-base md:text-lg text-gray-300">
-            When I’m not coding, I enjoy exploring new technologies, 
-            contributing to open-source projects, or sharing my knowledge 
-            through technical writing and mentoring.
+              When I’m not coding, I enjoy exploring new technologies, 
+              contributing to open-source projects, or sharing my knowledge 
+              through technical writing and mentoring.
             </p>
           </div>
         </div>
@@ -116,7 +116,7 @@ export default function About() {
 
               <div className="space-y-12">
 
-                {/* Data Analytics Instructor*/}
+                {/* Data Analytics Instructor */}
                 <div className="relative pl-8">
                   {/* Timeline Point */}
                   <div className="absolute left-[-8px] top-0 w-4 h-4 rounded-full bg-gray-800 border-2 border-white"></div>
@@ -132,25 +132,25 @@ export default function About() {
 
                     <ul className="list-disc list-inside text-gray-300 text-sm sm:text-base space-y-2">
                       <li>
-                        Led product development initiatives and defined the
-                        product roadmap
+                        Taught data analytics concepts and guided students through
+                        practical data analysis activities
                       </li>
 
                       <li>
-                        Conducted thorough quality assurance testing and
-                        documented software defects
+                        Introduced students to data preparation, visualization,
+                        and interpretation using relevant analytics tools
                       </li>
 
                       <li>
-                        Collaborated with the development team to ensure
-                        product quality and user satisfaction
+                        Developed learning materials, activities, and assessments
+                        to support students’ understanding of data analytics
                       </li>
                     </ul>
                   </div>
                 </div>
 
-                     {/* Data Analytics Instructor*/}
-                     <div className="relative pl-8">
+                {/* ICT Teacher */}
+                <div className="relative pl-8">
                   {/* Timeline Point */}
                   <div className="absolute left-[-8px] top-0 w-4 h-4 rounded-full bg-gray-800 border-2 border-white"></div>
 
@@ -165,18 +165,18 @@ export default function About() {
 
                     <ul className="list-disc list-inside text-gray-300 text-sm sm:text-base space-y-2">
                       <li>
-                        Led product development initiatives and defined the
-                        product roadmap
+                        Taught ICT and computer-related subjects, covering
+                        fundamental concepts, and practical applications
                       </li>
 
                       <li>
-                        Conducted thorough quality assurance testing and
-                        documented software defects
+                        Guided students through hands-on activities involving
+                        computer applications, and basic programming concepts
                       </li>
 
                       <li>
-                        Collaborated with the development team to ensure
-                        product quality and user satisfaction
+                        Prepared instructional materials, activities, and assessments
+                        while providing support to students during practical exercises
                       </li>
                     </ul>
                   </div>
@@ -193,7 +193,7 @@ export default function About() {
                     </h3>
 
                     <p className="text-gray-400 text-sm sm:text-base mb-4">
-                      Jairosoft • 2025 
+                      Jairosoft • 2025
                     </p>
 
                     <ul className="list-disc list-inside text-gray-300 text-sm sm:text-base space-y-2">
