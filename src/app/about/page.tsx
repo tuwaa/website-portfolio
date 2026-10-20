@@ -116,6 +116,37 @@ export default function About() {
 
               <div className="space-y-12">
 
+              
+{/* Jr. Solutions Specialist */}
+<div className="relative pl-8">
+  {/* Timeline Point */}
+  <div className="absolute left-[-8px] top-0 w-4 h-4 rounded-full bg-gray-800 border-2 border-white"></div>
+
+  <div className="bg-[#1a1a1a] rounded-lg p-4 transform transition-all duration-300 hover:scale-[1.02]">
+    <h3 className="text-lg sm:text-xl font-semibold mb-2">
+      Jr. Solutions Specialist
+    </h3>
+
+    <p className="text-gray-400 text-sm sm:text-base mb-4">
+      IPSystems Inc. • 2026 – Present
+    </p>
+
+    <ul className="list-disc list-inside text-gray-300 text-sm sm:text-base space-y-2">
+      <li>
+        Assist in presenting and demonstrating cybersecurity and IT solutions to clients based on their business needs.
+      </li>
+
+      <li>
+        Support product evaluations, proof-of-concept activities, and technical discussions to help clients understand recommended solutions.
+      </li>
+
+      <li>
+        Help gather client requirements, prepare technical documentation, and provide product guidance and support.
+      </li>
+    </ul>
+  </div>
+</div>
+
                 {/* Data Analytics Instructor */}
                 <div className="relative pl-8">
                   {/* Timeline Point */}
